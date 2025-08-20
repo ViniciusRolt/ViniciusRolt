@@ -1,16 +1,28 @@
-## Hi there 👋
+## E ai, Rolt aqui! 
 
-<!--
-**ViniciusRolt/ViniciusRolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <!-- Estatísticas do GitHub -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRolt&show_icons=true&theme=radical&include_all_commits=true&count_private=true&token=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"/>
 
-Here are some ideas to get you started:
+  <!-- Linguagens mais usadas -->
+  <img align="right" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRolt&layout=compact&langs_count=6&theme=radical&hide=javascript,typescript,objective-c,dockerfile,kotlin,ruby,java&token=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"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias que tenho conhecimentos!
+
+<div style="display: inline_block"><br/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" height="40px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px"/>
+</div><br>
+
+---
+
+<h3>Estudando no momento!</h3>
+<div style="display: inline_block">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px"/>
+</div>
