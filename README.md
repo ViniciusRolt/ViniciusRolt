@@ -1,43 +1,15 @@
-## E ai, Rolt aqui! 
+<img align="right" alt="" height="300px" src="./me.jpg">
 
-<div>
-  <!-- Estatísticas do GitHub -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRolt&show_icons=true&theme=radical&include_all_commits=true&count_private=true&token=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"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0000CD&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Vinicius+Rolt!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<!-- Linguagens mais usadas -->
-<div>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRolt&layout=compact&langs_count=6&theme=radical&hide=javascript,typescript,objective-c,dockerfile,kotlin,ruby,java&token=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"/>
-</div>
+<p align="left">
+  Atualmente,estou no 4° semestre do curso de Sistemas de Informação na Universidade Católica de Santos (UNISANTOS) onde busco aprofundar meus conhecimentos em desenvolvimento de software e tecnologia. Tenho uma grande paixão pela cybersegurança, mas também tenho interesse em desenvolvimento. Sou totalmente dedicado à área de tecnologia, sempre buscando aprender novos conceitos e ferramentas que possam aprimorar minhas habilidades e contribuir para a entrega de soluções de alta qualidade.
+</p>
 
----
+<h3 align="left">Conecte-se comigo!</h3>
 
-## Tecnologias que tenho conhecimentos!
-
-<div style="display: inline_block"><br/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" height="40px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px"/>
-</div><br>
+[![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0000CD&color:FFF)](mailto:vini.roltz@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF)](https://www.linkedin.com/in/vinicius-rolt-b17056234/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000CD&color:FFF)](https://www.instagram.com/alencsblz/)
 
 ---
-
-<h3>Estudando no momento!</h3>
-<div style="display: inline_block">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px"/>
-</div>
-
----
-
-## Formas de contato
-
-<div>
-  <a href="https://www.linkedin.com/in/vinicius-rolt-b17056234/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" height="40px"/>
-  </a>
-  <a href="mailto:vini.roltz@gmail.com">
-     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" height="40px"/>
-  </a>
-</div>
