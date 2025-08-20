@@ -38,6 +38,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" height="40px"/>
   </a>
   <a href="mailto:vini.roltz@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" height="40px"/>
+     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" height="40px"/>
   </a>
 </div>
