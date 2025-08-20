@@ -31,8 +31,8 @@
       <a href="mailto:vini.roltz@gmail.com">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" height="40px"/>
       </a>
-      <a href="https://www.instagram.com/vinicius.rolt/" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40px" height="40px"/>
+      <a href="https://www.instagram.com/vinicius.rolt/">
+        <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40px" height="40px"/>
       </a>
     </div>
   </div>
